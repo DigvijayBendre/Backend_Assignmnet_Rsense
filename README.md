@@ -1,6 +1,15 @@
    # Assignmnet Backend : 
+   ![c02a76c4-ec77-4426-bb61-0ea8d98a3ebe](https://user-images.githubusercontent.com/116354441/231779799-9d7ab8da-5e58-4f4a-9c2e-2a63e4f71c26.jpg)
+
  # Output Samples : 
 ## 1) Condition  : JSON Formate Data 
+## Methode : POST 
+   -Input
+   1) Name 
+   2) Email
+   3) DOB
+   4) Mobile
+ 
  ![Screenshot (73)](https://user-images.githubusercontent.com/116354441/231775509-2691b27d-b8c4-4fa6-8b19-b0fec6a6c934.png)
  ## 2) Condition : Code : 200 , record saved sucessfully message with entered value name Parameter
  ![Screenshot (71)](https://user-images.githubusercontent.com/116354441/231776515-32ffa4d3-a4c6-4669-bb67-eccefbc262ff.png)
