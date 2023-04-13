@@ -23,17 +23,18 @@
 # Rsense_Backend_Assignment
 Before we begin, make sure that you have Go installed on your machine and the Go-Zero framework installed.
 
-Step 1: Install Go-Zero Framework
-To get started with the Go-Zero framework, you need to install it first. You can use the following command to install the framework:
-# go get -u github.com/tal-tech/go-zero
+# Step 1: Install Go-Zero Framework
 
-Step 2: Create a New Project
+To get started with the Go-Zero framework, you need to install it first. You can use the following command to install the framework:
+## go get -u github.com/tal-tech/go-zero
+
+# Step 2: Create a New Project
 Create a new directory for your project and initialize it as a Go module:
 mkdir myproject
 cd myproject
 go mod init myproject
 
-Step 2: Install Dependencies
+## Install Dependencies
 We need to install the following dependencies:
 
 Go-Zero Framework
@@ -41,7 +42,7 @@ MySQL driver for Go
 To install them, run the following commands:
 
 
-# Copy code
+## Copy code
 go get -u github.com/tal-tech/go-zero
 go get -u github.com/go-sql-driver/mysql
 
@@ -131,4 +132,5 @@ Run the API using the following command:
 
 
 Copy code
-# go run user.go -
+## go build 
+## go run user.go -
